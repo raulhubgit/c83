@@ -1,0 +1,5 @@
+.plano-de-fundo-que-baixei-do-istock-e-tirei-as-marcas-da-agua 
+{ background-image: url("caneta.png"); background-position: center; background-size: cover; } 
+h1 { color: rgb(255, 0, 0); font-size: 40px; } 
+#canvas { border-width:10px; background-color: rgb(170, 180, 38); border-style:ridge; } 
+span { font-size: 20px; }
